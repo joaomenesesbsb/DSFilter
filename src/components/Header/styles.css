@@ -1,0 +1,22 @@
+header {
+    background-color: var(--color-bg-primary);
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-main {
+    color: var(--color-font-tertiary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-main h2 {
+    font-size: 20px;
+}
+
+.nav-main p {
+    font-size: 12px;
+    font-weight: 700;
+}

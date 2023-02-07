@@ -1,8 +1,10 @@
+import ListingBody from "./routes/ListingBody"
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <>
+    <ListingBody />
+    </>
   )
 }
 
